@@ -1,46 +1,37 @@
 <h1 align="center">
-    <img src="./src/images/logo.png" alt="E-Shop" />
+    <img src="./images/logo.png" alt="Food." />
 </h1>
 
-#✉ About
+# ✉ About
 
-An website where you can buy and sell your favorite products🛒.
+A completely responsive website for a fictional food company  🍕🍝.
 
-#🌆 GIFs and images
+# 🌆 GIFs and images
 
-#👨‍💻👩‍💻 Use the app
+<img src="./assets/gif.gif" />
+<img src="./assets/Screenshot_1.png" />
+<img src="./assets/Screenshot_2.png" />
+<img src="./assets/Screenshot_3.png" />
+<img src="./assets/Screenshot_4.png" />
+
+# 👨‍💻👩‍💻 Use the app
 
 You can access the application by clicking on the link below:
 
-[Access Recipes](https://e-shop-al.vercel.app)
+[Access Food](https://food-al.vercel.app)
 
-#✨ Figma Design
+# 💻 Technologies used in this project
 
-You can access the application design by clicking the link below:
+- HTML 
+- CSS
+- JavaScript
 
-[Access Figma Design](https://www.figma.com/file/twaJfIWxyffWWB9AGF5hWA/e-shop?)
-
-#💻 Technologies used in this project
-
-- HTML, CSS, JavaScript
-- ReactJS
-- Node
-- ViaCEP API
-
-#❓ How to use it
+# ❓ How to use it
 
 ```bash
 
-git clone https://github.com/arthur-lage/e-commerce.git
+git clone https://github.com/arthur-lage/food.git
 
-cd e-commerce
-
-yarn
-# if you don't have yarn installed, you can use npm install. 
-npm install
-
-yarn start
-# if you don't have yarn installed, you can use npm start. 
-npm start
+cd food
 
 ```
