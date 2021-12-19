@@ -8,11 +8,24 @@ A completely responsive website for a fictional food company  🍕🍝.
 
 # 🌆 GIFs and images
 
+## GIF
 <img src="./assets/gif.gif" />
-<img src="./assets/Screenshot_1.png" />
-<img src="./assets/Screenshot_2.png" />
-<img src="./assets/Screenshot_3.png" />
-<img src="./assets/Screenshot_4.png" />
+
+# Desktop Screenshots
+
+<div>
+    <img src="./assets/Screenshot_1.png" />
+    <img src="./assets/Screenshot_2.png" />
+</div>
+
+# Mobile Screenshots
+
+<div display="flex">
+    <img src="./assets/Screenshot_3.png"/>
+    <img src="./assets/Screenshot_4.png" />
+    <img src="./assets/Screenshot_5.png" />
+    <img src="./assets/Screenshot_6.png" />
+</div>
 
 # 👨‍💻👩‍💻 Use the app
 
